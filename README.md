@@ -41,29 +41,64 @@
 
 ---
 
-### 👨‍💻 Coding Stats
+### 🎮 Personal Game Picks
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/peedasaur?ext=contest&theme=dark" alt="Codolio Card for peedasaur" />
-</p>
----
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://store.steampowered.com/app/594650/Minecraft/" target="_blank">
+        <img src="https://raw.githubusercontent.com/peedasaur/peedasaur/main/assets/minecraft.jpg" width="80" height="80" title="Minecraft"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://store.steampowered.com/app/1245620/ELDEN_RING/" target="_blank">
+        <img src="https://raw.githubusercontent.com/peedasaur/peedasaur/main/assets/elden_ring.jpg" width="80" height="80" title="Elden Ring"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://store.steampowered.com/app/400/Portal/" target="_blank">
+        <img src="https://raw.githubusercontent.com/peedasaur/peedasaur/main/assets/portal.jpg" width="80" height="80" title="Portal"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://store.steampowered.com/app/383870/Firewatch/" target="_blank">
+        <img src="https://raw.githubusercontent.com/peedasaur/peedasaur/main/assets/firewatch.png" width="80" height="80" title="Firewatch"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://store.steampowered.com/app/753640/Outer_Wilds/" target="_blank">
+        <img src="https://raw.githubusercontent.com/peedasaur/peedasaur/main/assets/outer_wilds.jpg" width="80" height="80" title="Outer Wilds"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://store.steampowered.com/app/391540/Undertale/" target="_blank">
+        <img src="https://raw.githubusercontent.com/peedasaur/peedasaur/main/assets/undertale.png" width="80" height="80" title="Undertale"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
----
-
-
-
+<p align="center"><em>🧠 Games that shaped how I think, feel, and create.</em></p>
 
 
 ### 📬 Contact Me
 
-<p align="center">
-  <a href="mailto:aditya.sharma7364@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-aditya.sharma7364@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/aditya-sharma-501210341" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/peedasaur" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@peedasaur-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:aditya.sharma7364@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" title="Gmail" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/aditya-sharma-501210341" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" title="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/peedasaur" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" title="Instagram" />
+      </a>
+    </td>
+  </tr>
+</table>
