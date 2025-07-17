@@ -16,14 +16,15 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,c,cpp,cs,java,html,css,nodejs,python,mysql,linux,aws,azure&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,c,cpp,java,html,css,python,mysql,linux,aws&theme=dark" />
 </p>
 
 -----
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/peedasaur/peedasaur/output/pacman-contribution-graph-dark.svg" alt="Pac-Man GitHub contribution graph" />
+  <img src="https://raw.githubusercontent.com/peedasaur/peedasaur/main/pacman.svg" alt="Pac-Man" />
 </p>
+
 
 ---
 
@@ -38,16 +39,31 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=peedasaur&theme=dark&border_radius=10" width="80%" />
 </p>
 
+---
+
+### 👨‍💻 Coding Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/peedasaur?ext=contest&theme=dark" alt="Codolio Card for peedasaur" />
+</p>
+---
+
+---
+
+
+
+
+
 ### 📬 Contact Me
 
 <p align="center">
   <a href="mailto:aditya.sharma7364@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" />
+    <img src="https://img.shields.io/badge/Gmail-aditya.sharma7364@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/aditya-sharma-501210341">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" />
+  <a href="https://linkedin.com/in/aditya-sharma-501210341" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/peedasaur">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" />
+  <a href="https://instagram.com/peedasaur" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@peedasaur-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
