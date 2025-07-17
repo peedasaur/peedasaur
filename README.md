@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">🎮 Making games that matter, playing games that inspire</h3>
 
-
 ---
 
 ### 🧠 About Me
 
-> 🎮 **Aspiring game developer** passionate about turning ideas into interactive adventures.  
-> 💻 Currently learning **Unity**, **Java**, and **Unreal Engine**.  
-> 🧩 I enjoy building, breaking, and understanding how games work.  
-> ⚡ **Fun Fact:** *Malenia from Elden Ring has caused more deaths than some real-life wars.*
+- **👨‍💻 I’m a developer currently learning _Cloud Computing_**
+- **☁️ Exploring services like _AWS_, _Azure_, and _serverless architectures_**
+- **🎮 Learning _Unity_ to build simple interactive games**
+- **🏆 Improving my _problem-solving skills_ through competitive programming**
+- **🤝 Open to _collaborating_ on contests and upsolving on _Codeforces_ & _CodeChef_**
+- **📬 Reach me at: _aditya.sharma7364@gmail.com_**
 
 ---
 
