@@ -47,7 +47,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://store.steampowered.com/app/594650/Minecraft/" target="_blank">
+      <a href="https://www.minecraft.net/en-us/download" target="_blank">
         <img src="https://raw.githubusercontent.com/peedasaur/peedasaur/main/assets/minecraft.jpg" width="80" height="80" title="Minecraft"/>
       </a>
     </td>
