@@ -32,15 +32,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peedasaur&show_icons=true&theme=radical&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peedasaur&layout=compact&theme=radical&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=peedasaur&show_icons=true&theme=radical&border_radius=10&cache_seconds=60" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peedasaur&layout=compact&theme=radical&border_radius=10&cache_seconds=60" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=peedasaur&theme=dark&border_radius=10" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=peedasaur&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=ff6b81&cache_seconds=60" width="80%" />
 </p>
-
----
 
 ### 🎮 Personal Game Picks
 
