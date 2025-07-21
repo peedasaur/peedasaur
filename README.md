@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">🎮 Making games that matter, playing games that inspire</h3>
 
----
+--- 
 
 ### 🧠 About Me
 
