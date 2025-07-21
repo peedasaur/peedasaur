@@ -12,7 +12,7 @@
 - **🤝 Open to _collaborating_ on contests and upsolving on _Codeforces_ & _CodeChef_**
 - **📬 Reach me at: _aditya.sharma7364@gmail.com_**
 
----
+--- 
 
 ### 🛠️ Tech Stack
 
