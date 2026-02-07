@@ -28,10 +28,6 @@
 
 ###  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peedasaur&show_icons=true&theme=radical&border_radius=10&cache_seconds=60" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peedasaur&layout=compact&theme=radical&border_radius=10&cache_seconds=60" width="45%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=peedasaur&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B81&cache_seconds=60" width="90%" />
