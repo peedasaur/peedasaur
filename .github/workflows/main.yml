@@ -2,18 +2,27 @@ name: Daily Auto Commit
 
 on:
   schedule:
-    - cron: '0 12 * * *' # Runs every day at 12:00 UTC
-  workflow_dispatch: # Allows you to run it manually
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   commit:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      
-      - name: Make changes & push
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Configure Git
         run: |
-          git config --global user.email "your-email@example.com"
-          git config --global user.name "Your Name"
-          git commit --allow-empty -m "Daily automated streak commit"
-          git push origin main
+          git config user.name "Your Name"
+          git config user.email "your-email@example.com"
+
+      - name: Create empty commit
+        run: git commit --allow-empty -m "Daily automated streak commit"
+
+      - name: Push changes
+        run: git push
